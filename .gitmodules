@@ -1,0 +1,3 @@
+[submodule "GSDB"]
+	path = GSDB
+	url = https://github.com/Joao-Pedrosa/GSDB.git
